@@ -68,5 +68,5 @@
 - Companies/Platforms must ensure that any content (paid or organic) published by them or their users pertaining to an election (whether directly about a candidate or about a political issue) is published in "good faith." This means:
     - Paid content must only be published by individuals verified as legal residents of the jurisdictions in which the election is taking place (ie, no outside actors paying for content)
     - All content must clearly state who produced it, who posted it, and who paid for its amplification (if applicable). Additionally, companies/platforms should make available tools which allow others to view what paid content is being promoted and how it is being targeted by other actors in the political space.
-- Demonstrably false information intended to suppress voter participation (for example, promoting the wrong day for an election or false information about voter ID requirements) should be removed and violating accounts banned from additional posting.
+    - Demonstrably false information intended to suppress voter participation (for example, promoting the wrong day for an election or false information about voter ID requirements) should be removed and violating accounts banned from additional posting.
     - Companies/Platforms should observe a "black-out" period on political advertising prior to elections.
