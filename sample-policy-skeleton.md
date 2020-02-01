@@ -1,5 +1,7 @@
 ## A Sample Policy Skeleton:
 
+**Disclaimer** This is just a thought experiment about what a policy framework which followed the Universal Declaration of Human Rights based approach might look like. While I think some stuff in here will be pretty non-controversial, I am well aware that some of the items below are judgment calls that reflect my own personal perspective on how to interpret/implement an item in the Declaration. The point is to start a conversation, not propose a final resolution.
+
 - Tech Companies/Platforms should generally not consent to or participate in any action which would restrict their users rights with regards to the freedoms outlined in section one of the framework except where such rights might conflict with the rights of others as outlined below.
 - Companies/Platforms which directly provide or indirectly facilitate any service related to transportation or residence should (a) never engage in any sort of discriminatory practices with regards to the provision of their services (ie, housing discrimination) and (b) not tolerate discriminatory practices on the part of providers/employers who utilize their platform. 
 - Companies/Platforms who employ individuals through the use of their own property (ie, drivers, home rentals, or workers using their own computers/devices) should not place any requirements on the modification, condition, or use of their property which are not strictly necessary for either (a) the provision of the service or (b) the health and safety of customers.
